@@ -1,4 +1,4 @@
-### Olá. Me chamo Yuri, tenho 25 anos, programador, e abaixo listarei algumas característicaas sobre mim:
+### Olá. Me chamo Yuri, tenho 25 anos, programador, e abaixo listarei algumas características sobre mim:
 
 - Cursando Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá.
 - Estudando Desenvolvimento Web com a Professora Angela Yu da instituição London App Brewery.
