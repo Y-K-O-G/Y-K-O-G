@@ -10,7 +10,7 @@
 - Contate-me pelo email: work.yuri@hotmail.com
 
 <div>
-    <a href="https://github.com/Y-K-O-G">
+    <a href="[https://github.com/Y-K-O-G](https://github.com/Y-K-O-G?tab=repositories)">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Y-K-O-G&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Y-K-O-G&langs_count=10&layout=compact&theme=codeSTACKr"/>
 </div>
