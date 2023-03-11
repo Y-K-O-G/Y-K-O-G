@@ -9,3 +9,6 @@
 - Buscando aplicar na prática tudo o que estou aprendendo e evoluir cada vez mas na área de programação e tecnologia;
 - Contate-me pelo email: work.yuri@hotmail.com
 
+<div>
+    [![Yuri's GitHub stats](https://github-readme-stats.vercel.app/api?username=Y-K-O-G)](https://github.com/Y-K-O-G/github-readme-stats)
+</div>
