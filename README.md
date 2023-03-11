@@ -22,3 +22,11 @@
     <img align="center" alt="Yuri_JS" height="40" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
     <img align="center" alt="Yuri_Bootstrap" height="40" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </div>
+
+    ##
+
+#### Contatos:
+
+<div>
+    <a href="work.yuri@hotmail.com"><img align="center" alt="Yuri_HTML" height="40" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+</div>
