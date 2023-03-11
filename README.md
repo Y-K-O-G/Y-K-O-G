@@ -9,6 +9,8 @@
 - Buscando aplicar na prática tudo o que estou aprendendo e evoluir cada vez mas na área de programação e tecnologia;
 - Contate-me pelo email: work.yuri@hotmail.com
 
+    ##
+
 <div>
     <a href="https://github.com/Y-K-O-G?tab=repositories"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Y-K-O-G&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
