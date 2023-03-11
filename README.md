@@ -10,5 +10,5 @@
 - Contate-me pelo email: work.yuri@hotmail.com
 
 <div>
-    [![Yuri's GitHub stats](https://github-readme-stats.vercel.app/api?username=Y-K-O-G)](https://github.com/Y-K-O-G/github-readme-stats)
+    ![Yuri's GitHub stats](https://github-readme-stats.vercel.app/api?username=Y-K-O-G)](https://github.com/Y-K-O-G/github-readme-stats)
 </div>
