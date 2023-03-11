@@ -12,5 +12,5 @@
 <div>
     <a href="https://github.com/Y-K-O-G">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Y-K-O-G&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Y-K-O-G&langs_count=10&layout=compact"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Y-K-O-G&langs_count=10&layout=compact&theme=codeSTACKr"/>
 </div>
