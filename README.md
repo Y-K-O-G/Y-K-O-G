@@ -28,5 +28,5 @@
 #### Contatos:
 
 <div>
-    <a href="work.yuri@hotmail.com"><img align="center" alt="Yuri_HTML" height="40" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+    <a href="work.yuri@hotmail.com"><img align="center" alt="Yuri_HTML" height="40" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
 </div>
