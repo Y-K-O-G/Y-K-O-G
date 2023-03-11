@@ -28,5 +28,6 @@
 #### Contatos:
 
 <div>
-    <a href="mailto:work.yuri@hotmail.com" target"_blank"><img align="center" alt="Yuri_HTML" height="40" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target"_blank"/></a>
+    <a href="mailto:work.yuri@hotmail.com" target"_blank"><img align="center" alt="Yuri_Email" height="40" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target"_blank"/></a>
+    <a href="https://wa.me/+5522988133968" target"_blank"><img align="center" alt="Yuri_WhatsApp" height="40" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target"_blank"/></a>
 </div>
