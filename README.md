@@ -7,7 +7,6 @@
 - Tenho facilidade em socializar com as pessoas;
 - Sei que parece clichê, mas realmente aprendo rápido;
 - Buscando aplicar na prática tudo o que estou aprendendo e evoluir cada vez mas na área de programação e tecnologia;
-- Contate-me pelo email: work.yuri@hotmail.com
 
     ##
 
