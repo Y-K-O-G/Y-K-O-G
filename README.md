@@ -6,6 +6,7 @@
 - Falo Português e Inglês fluentemente;
 - Tenho facilidade em socializar com as pessoas;
 - Sei que parece clichê, mas realmente aprendo rápido;
+- Confiança é algo que nunca deve ser quebrada;
 - Buscando aplicar na prática tudo o que estou aprendendo e evoluir cada vez mas na área de programação e tecnologia;
 
     ##
