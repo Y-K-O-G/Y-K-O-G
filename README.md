@@ -3,7 +3,7 @@
 - Cursando Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá;
 - Estudando Desenvolvimento Web com a Professora Angela Yu da instituição London App Brewery;
 - Atualmente procurando meu primeiro emprego na área de tecnologia;
-- Falo Português e Inglês fluentemente;
+- Falo Português fluente e tenho Inglês avançado, além de Espanhol intermediário e Italiano básico;
 - Tenho facilidade em socializar com as pessoas;
 - Sei que parece clichê, mas realmente aprendo rápido;
 - Confiança é algo que nunca deve ser quebrada;
