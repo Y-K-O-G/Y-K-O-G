@@ -38,5 +38,5 @@
 #### Acompanhe minhas anotações de estudo no Notion:
 
 <div>
-    <a href="https://y-k-o-g.notion.site/Web-Dev-a56ba0d2dab9426593a66533f083f159?pvs=4" target"_blank"><img align="center" alt="Yuri_Notion" height="40" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" target"_blank"/></a>
+    <a href="https://y-k-o-g.notion.site/Programa-o-d0a81013405f41569261bd7101448ec6?pvs=4" target"_blank"><img align="center" alt="Yuri_Notion" height="40" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" target"_blank"/></a>
 </div>
