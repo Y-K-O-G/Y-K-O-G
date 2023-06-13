@@ -31,4 +31,5 @@
 <div>
     <a href="mailto:work.yuri@hotmail.com" target"_blank"><img align="center" alt="Yuri_Email" height="40" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target"_blank"/></a>
     <a href="https://wa.me/+5522988133968" target"_blank"><img align="center" alt="Yuri_WhatsApp" height="40" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target"_blank"/></a>
+    <a href="https://y-k-o-g.notion.site/Web-Dev-a56ba0d2dab9426593a66533f083f159?pvs=4" target"_blank"><img align="center" alt="Yuri_Notion" height="40" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" target"_blank"/></a>
 </div>
